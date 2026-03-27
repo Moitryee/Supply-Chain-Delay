@@ -3,7 +3,7 @@
 
 2️⃣ 📌 Problem Statement
 ## Problem Statement
-The objective of this project is to analyze delivery data and identify the key reasons behind order delays, which impact customer satisfaction and operational efficiency.
+The objective of this project is to analyze delivery data and **identify the key reasons** behind order delays, which impact customer satisfaction and operational efficiency.
 
 3️⃣ 📊 Dataset
 ## Dataset
@@ -14,18 +14,20 @@ The objective of this project is to analyze delivery data and identify the key r
   - Route
   - Timestamp
   - Delivery Status
+  - Weather Condition
+  - Transactional Amount
 
 4️⃣ ⚙️ Tools Used
 ## Tools & Technologies
-- Excel (Data Cleaning, Pivot Tables)
+- Excel (Data Cleaning, Pivot Tables, Charts)
 - Power BI (Dashboard & Visualization)
 
 5️⃣ 🔍 Steps Performed
 ## Steps Performed
-- Cleaned data (handled missing values, corrected formats)
-- Created calculated columns for better analysis
+- Cleaned data (handled missing values,deleting the irrelevent column, corrected formats).
+- Created calculated columns, measures(for making KPI) for better analysis.
 - Performed exploratory data analysis (EDA) in Excel.
-- Built Power BI dashboard to track delay trends
+- Built Power BI dashboard to track delay trends.
 
 6️⃣ 📈 Key Insights
 ## Key Insights
@@ -38,3 +40,8 @@ The objective of this project is to analyze delivery data and identify the key r
 - Reallocate underutilized trucks
 - Implement GPS tracking system
 - Use weather forecasting for better planning
+<img width="1501" height="798" alt="Screenshot 2026-03-27 123639" src="https://github.com/user-attachments/assets/d1d6e988-cd3d-4e5b-b1b3-498c7408ee1c" />
+
+8️⃣🚀 Conclusion
+## Conclusion
+This project demonstrates how data analysis can help identify operational inefficiencies and improve delivery performance.
