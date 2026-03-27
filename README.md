@@ -1,6 +1,11 @@
 1️⃣ Project Title
 # Supply Chain Analysis – Delivery Delay Insights
 
+
+https://github.com/user-attachments/assets/b9ded595-61c4-4f4d-bf89-6efa24c47e9c
+
+
+
 2️⃣ 📌 Problem Statement
 ## Problem Statement
 The objective of this project is to analyze delivery data and **identify the key reasons** behind order delays, which impact customer satisfaction and operational efficiency.
@@ -41,6 +46,7 @@ The objective of this project is to analyze delivery data and **identify the key
 - Implement GPS tracking system
 - Use weather forecasting for better planning
 <img width="1501" height="798" alt="Screenshot 2026-03-27 123639" src="https://github.com/user-attachments/assets/d1d6e988-cd3d-4e5b-b1b3-498c7408ee1c" />
+
 
 8️⃣🚀 Conclusion
 ## Conclusion
